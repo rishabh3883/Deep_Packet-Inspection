@@ -461,6 +461,5 @@ Yeh pure Python DPI engine demonstrate karta hai:
 2. **Real-world Application Layer Dissection** (TLS SNI, HTTP, DNS).
 3. **Stateful Connection Tracking & Finite State Machines**.
 4. **Extensible Security Rules Engine**.
-#   D e e p _ P a c k e t - I n s p e c t i o n 
- 
- 
+# Deep_Packet-Inspection
+
