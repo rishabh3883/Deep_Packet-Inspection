@@ -418,7 +418,7 @@ python python/main.py -f test_dpi.pcap
 
 Jab aap script run karte hain, real-time live events ke baad full execution statistics milti hain:
 
-```text
+text
 [*] Starting analysis of PCAP file: test_dpi.pcap
 
 [DPI] TLS  | 192.168.1.100:54552 -> 142.250.185.206:443   | www.google.com
@@ -452,9 +452,7 @@ Jab aap script run karte hain, real-time live events ke baad full execution stat
   TCP  192.168.1.100:58867 -> 142.250.185.110:443   | Pkts: 4    | State: ESTABLISHED [www.youtube.com]
   TCP  192.168.1.100:55490 -> 140.82.114.4:443      | Pkts: 4    | State: ESTABLISHED [github.com]
 =================================================================
-```
 
----
 
 ## Summary
 
@@ -463,5 +461,6 @@ Yeh pure Python DPI engine demonstrate karta hai:
 2. **Real-world Application Layer Dissection** (TLS SNI, HTTP, DNS).
 3. **Stateful Connection Tracking & Finite State Machines**.
 4. **Extensible Security Rules Engine**.
-#   D e e p _ P a c k e t - I n s p e c t i o n  
+#   D e e p _ P a c k e t - I n s p e c t i o n 
+ 
  
